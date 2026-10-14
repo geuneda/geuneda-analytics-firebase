@@ -1,0 +1,20 @@
+{
+    "name": "Geuneda.Analytics.Firebase",
+    "rootNamespace": "Geuneda.Analytics.Firebase",
+    "references": [
+        "Geuneda.Analytics",
+        "Geuneda.Core",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "!GEUNEDA_SKIP_VENDOR_ADAPTERS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
